@@ -21,6 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&logo=google&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white)
